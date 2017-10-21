@@ -1,5 +1,4 @@
 <?php
-fail($)
 header('Content-Type: text/plain');
 //modify these two lines: $dir is the full path to your website from root directory
 $dir = '/storage/ssd3/235/1533235/public_html/';
